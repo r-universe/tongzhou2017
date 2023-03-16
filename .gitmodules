@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "itol.toolkit"]
+	path = itol.toolkit
+	url = https://github.com/tongzhou2017/itol.toolkit
+	shallow = true
+	registered = true
